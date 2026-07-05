@@ -1,0 +1,2 @@
+perl: sub deploy { return 1; }
+1;
